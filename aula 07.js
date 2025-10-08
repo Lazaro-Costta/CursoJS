@@ -1,2 +1,3 @@
-var num = 8
-console.log(num)
+if (true) {
+    console.log("ola");
+}
