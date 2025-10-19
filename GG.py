@@ -35,3 +35,4 @@ def printLyrics():
         sleep(delays[i])
 
 printLyrics()
+print('lasaro')
